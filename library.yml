@@ -1,1 +1,9 @@
 ---
+name: static-site
+display_name: Static Site
+ports:
+  - 80
+  - 443
+
+description: |-
+  This is nginx packaged for simple static site hosting.

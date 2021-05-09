@@ -8,7 +8,7 @@ on:
 
 jobs:
   static-site:
-    name: Build static-site Images
+    name: Build Static Site Images
 
     runs-on: ubuntu-latest
     steps:
